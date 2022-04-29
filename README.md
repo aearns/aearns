@@ -11,6 +11,9 @@ No activity tracked
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aearns&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
 
 
