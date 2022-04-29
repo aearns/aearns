@@ -1,5 +1,5 @@
 ### Hi there👋, many call me Enoch
-### Welcome, page under construction 😆😆😆
+### Welcome, this page is under construction 😆😆😆
 
 <!--START_SECTION:waka-->
 
@@ -8,7 +8,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-#### Github stats
+#### Checkout my Github stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aearns&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #### Checkout my tech stacks
