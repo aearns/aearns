@@ -1,12 +1,6 @@
 ### Hi there👋, many call me Enoch
 ### Welcome, this page is under construction 😆😆😆
 
-<!--START_SECTION:waka-->
-
-```text
-Markdown   3 mins          ███████████████████████░░   92.18 %
-C          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
 
 <!--END_SECTION:waka-->
 #### Checkout my Github stats
@@ -17,6 +11,12 @@ C          0 secs          ██░░░░░░░░░░░░░░░�
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
 
+<!--START_SECTION:waka-->
+
+```text
+Markdown   3 mins          ███████████████████████░░   92.18 %
+C          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+```
 
 <!--
 **aearns/aearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
