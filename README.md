@@ -29,8 +29,9 @@ Software Engineering student @Alx Africa
 <!--START_SECTION:waka-->
 
 ```text
-C          32 mins         ████████████████░░░░░░░░░   64.31 %
-Markdown   18 mins         █████████░░░░░░░░░░░░░░░░   35.69 %
+Python     1 hr 26 mins    ███████████████▒░░░░░░░░░   60.68 %
+C          35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+Markdown   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 
 <!--END_SECTION:waka-->
