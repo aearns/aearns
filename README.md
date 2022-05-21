@@ -29,9 +29,9 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 2 mins    ███████████████████████░░   92.39 %
-PHP        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+C          5 hrs 14 mins   █████████████████████▓░░░   86.81 %
+PHP        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Other      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
