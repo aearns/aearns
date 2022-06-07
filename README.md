@@ -29,9 +29,9 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   8 mins          ████████████▓░░░░░░░░░░░░   50.48 %
-Python     8 mins          ████████████░░░░░░░░░░░░░   48.14 %
-C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown   11 mins         ██████████████▒░░░░░░░░░░   57.30 %
+Python     8 mins          ██████████▒░░░░░░░░░░░░░░   41.50 %
+C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
