@@ -29,9 +29,9 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-C          21 mins         ███████████▒░░░░░░░░░░░░░   45.12 %
-Python     10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-Other      9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+Python     29 mins         ███████████▓░░░░░░░░░░░░░   47.33 %
+C          21 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 %
+Other      9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
 ```
 
 <!--END_SECTION:waka-->
