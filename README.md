@@ -29,9 +29,10 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 33 mins   █████████████████████▓░░░   87.09 %
-HTML     56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-CSS      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Python     1 hr 18 mins    ██████████████▒░░░░░░░░░░   57.47 %
+HTML       56 mins         ██████████▒░░░░░░░░░░░░░░   41.19 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
