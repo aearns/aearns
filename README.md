@@ -29,7 +29,7 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-Other      1 hr 36 mins    ███████████████████████▒░   92.68 %
+Other      1 hr 36 mins    ██████████████████░░░░░░░   71.77 %
 ```
 
 <!--END_SECTION:waka-->
