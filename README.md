@@ -29,10 +29,8 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-C            1 hr 30 mins    ████████████████████░░░░░   80.02 %
-JavaScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Ruby         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Python       23 mins         ██████████████▓░░░░░░░░░░   59.19 %
+Other        8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
 ```
 
 <!--END_SECTION:waka-->
