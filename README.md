@@ -29,7 +29,7 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 3 mins     █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
