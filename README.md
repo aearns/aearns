@@ -29,11 +29,10 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         2 hrs 59 mins   ████████████████████▓░░░░   82.25 %
-JavaScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-CSS          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+HTML         2 hrs 44 mins   ████████████████████▒░░░░   81.88 %
+JavaScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+CSS          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
