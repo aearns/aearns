@@ -29,8 +29,7 @@ Software Engineering student @ALX Africa
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 mins          ████████████████▓░░░░░░░░   66.65 %
-JavaScript   1 min           ████████▒░░░░░░░░░░░░░░░░   33.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
