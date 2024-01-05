@@ -1,5 +1,5 @@
-## Hi 👋 My name is Enoch  
-Software Engineering student @ALX Africa
+## Hi 👋 I am Enoch  
+Budding Software Engineer
 
 🌍 I'm based in Accra
 
