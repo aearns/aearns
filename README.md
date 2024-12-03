@@ -1,4 +1,4 @@
-## Hi 👋 I am Enoch  
+## Hi👋, Enoch here
 Budding Software Engineer
 
 🌍 Based in Accra
