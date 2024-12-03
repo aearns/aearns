@@ -1,9 +1,9 @@
 ## Hi 👋 I am Enoch  
 Budding Software Engineer
 
-🌍 I'm based in Accra
+🌍 Based in Accra
 
-✉️ You can contact me at [aearns@gmail.com](mailto:aearns@gmail.com)
+✉️ Contact me [aearns@gmail.com](mailto:aearns@gmail.com)
 
 🤝 I'm open to collaborating on interesting projects
 
